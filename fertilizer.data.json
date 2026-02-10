@@ -1,14 +1,14 @@
 {
   "fertilizers": [
     {
-      "id": "npk_15_15_15",
-      "displayName": "NPK 15-15-15",
-      "nitrogenPercentage": 15.0,
-      "phosphorusPercentage": 15.0,
-      "potassiumPercentage": 15.0,
+      "id": "npk_25_5_10",
+      "displayName": "NPK 25-5-10",
+      "nitrogenPercentage": 25.0,
+      "phosphorusPercentage": 5.0,
+      "potassiumPercentage": 10.0,
       "weightPerBag": 25.0,
       "isOrganic": false,
-      "description": "Balanced synthetic fertilizer suitable for general turf maintenance"
+      "description": "Standard tee fertilizer"
     },
     {
       "id": "npk_20_10_10",
