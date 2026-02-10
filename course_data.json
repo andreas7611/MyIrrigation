@@ -1,0 +1,277 @@
+{
+  "courses": [
+    {
+      "id": "Stora Banan",
+      "name": "Stora Banan",
+      "areas": [
+        {
+          "type": "Tee",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 230 },
+            { "holeNumber": 2, "areaM2": 180 },
+            { "holeNumber": 3, "areaM2": 200 },
+            { "holeNumber": 4, "areaM2": 250 },
+            { "holeNumber": 5, "areaM2": 190 },
+            { "holeNumber": 6, "areaM2": 220 },
+            { "holeNumber": 7, "areaM2": 210 },
+            { "holeNumber": 8, "areaM2": 195 },
+            { "holeNumber": 9, "areaM2": 185 },
+            { "holeNumber": 10, "areaM2": 240 },
+            { "holeNumber": 11, "areaM2": 205 },
+            { "holeNumber": 12, "areaM2": 225 },
+            { "holeNumber": 13, "areaM2": 215 },
+            { "holeNumber": 14, "areaM2": 235 },
+            { "holeNumber": 15, "areaM2": 180 },
+            { "holeNumber": 16, "areaM2": 200 },
+            { "holeNumber": 17, "areaM2": 190 },
+            { "holeNumber": 18, "areaM2": 210 }
+          ]
+        },
+        {
+          "type": "Green",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 450 },
+            { "holeNumber": 2, "areaM2": 380 },
+            { "holeNumber": 3, "areaM2": 420 },
+            { "holeNumber": 4, "areaM2": 500 },
+            { "holeNumber": 5, "areaM2": 390 },
+            { "holeNumber": 6, "areaM2": 460 },
+            { "holeNumber": 7, "areaM2": 440 },
+            { "holeNumber": 8, "areaM2": 410 },
+            { "holeNumber": 9, "areaM2": 375 },
+            { "holeNumber": 10, "areaM2": 480 },
+            { "holeNumber": 11, "areaM2": 425 },
+            { "holeNumber": 12, "areaM2": 445 },
+            { "holeNumber": 13, "areaM2": 435 },
+            { "holeNumber": 14, "areaM2": 470 },
+            { "holeNumber": 15, "areaM2": 360 },
+            { "holeNumber": 16, "areaM2": 400 },
+            { "holeNumber": 17, "areaM2": 385 },
+            { "holeNumber": 18, "areaM2": 430 }
+          ]
+        },
+        {
+          "type": "Fairway",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 2500 },
+            { "holeNumber": 2, "areaM2": 1800 },
+            { "holeNumber": 3, "areaM2": 1200 },
+            { "holeNumber": 4, "areaM2": 3200 },
+            { "holeNumber": 5, "areaM2": 2100 },
+            { "holeNumber": 6, "areaM2": 2800 },
+            { "holeNumber": 7, "areaM2": 2400 },
+            { "holeNumber": 8, "areaM2": 1600 },
+            { "holeNumber": 9, "areaM2": 2000 },
+            { "holeNumber": 10, "areaM2": 3000 },
+            { "holeNumber": 11, "areaM2": 2600 },
+            { "holeNumber": 12, "areaM2": 2200 },
+            { "holeNumber": 13, "areaM2": 1400 },
+            { "holeNumber": 14, "areaM2": 2900 },
+            { "holeNumber": 15, "areaM2": 1700 },
+            { "holeNumber": 16, "areaM2": 2300 },
+            { "holeNumber": 17, "areaM2": 1900 },
+            { "holeNumber": 18, "areaM2": 2700 }
+          ]
+        },
+        {
+          "type": "Semi Rough",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 1200 },
+            { "holeNumber": 2, "areaM2": 900 },
+            { "holeNumber": 3, "areaM2": 600 },
+            { "holeNumber": 4, "areaM2": 1600 },
+            { "holeNumber": 5, "areaM2": 1050 },
+            { "holeNumber": 6, "areaM2": 1400 },
+            { "holeNumber": 7, "areaM2": 1200 },
+            { "holeNumber": 8, "areaM2": 800 },
+            { "holeNumber": 9, "areaM2": 1000 },
+            { "holeNumber": 10, "areaM2": 1500 },
+            { "holeNumber": 11, "areaM2": 1300 },
+            { "holeNumber": 12, "areaM2": 1100 },
+            { "holeNumber": 13, "areaM2": 700 },
+            { "holeNumber": 14, "areaM2": 1450 },
+            { "holeNumber": 15, "areaM2": 850 },
+            { "holeNumber": 16, "areaM2": 1150 },
+            { "holeNumber": 17, "areaM2": 950 },
+            { "holeNumber": 18, "areaM2": 1350 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Mellanbanan",
+      "name": "Mellanbanan",
+      "areas": [
+        {
+          "type": "Tee",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 200 },
+            { "holeNumber": 2, "areaM2": 160 },
+            { "holeNumber": 3, "areaM2": 180 },
+            { "holeNumber": 4, "areaM2": 220 },
+            { "holeNumber": 5, "areaM2": 170 },
+            { "holeNumber": 6, "areaM2": 190 },
+            { "holeNumber": 7, "areaM2": 185 },
+            { "holeNumber": 8, "areaM2": 175 },
+            { "holeNumber": 9, "areaM2": 165 },
+            { "holeNumber": 10, "areaM2": 210 },
+            { "holeNumber": 11, "areaM2": 185 },
+            { "holeNumber": 12, "areaM2": 195 }
+          ]
+        },
+        {
+          "type": "Green",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 400 },
+            { "holeNumber": 2, "areaM2": 350 },
+            { "holeNumber": 3, "areaM2": 380 },
+            { "holeNumber": 4, "areaM2": 450 },
+            { "holeNumber": 5, "areaM2": 360 },
+            { "holeNumber": 6, "areaM2": 420 },
+            { "holeNumber": 7, "areaM2": 390 },
+            { "holeNumber": 8, "areaM2": 370 },
+            { "holeNumber": 9, "areaM2": 340 },
+            { "holeNumber": 10, "areaM2": 430 },
+            { "holeNumber": 11, "areaM2": 385 },
+            { "holeNumber": 12, "areaM2": 410 }
+          ]
+        },
+        {
+          "type": "Fairway",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 2200 },
+            { "holeNumber": 2, "areaM2": 1600 },
+            { "holeNumber": 3, "areaM2": 1000 },
+            { "holeNumber": 4, "areaM2": 2800 },
+            { "holeNumber": 5, "areaM2": 1800 },
+            { "holeNumber": 6, "areaM2": 2400 },
+            { "holeNumber": 7, "areaM2": 2000 },
+            { "holeNumber": 8, "areaM2": 1400 },
+            { "holeNumber": 9, "areaM2": 1700 },
+            { "holeNumber": 10, "areaM2": 2600 },
+            { "holeNumber": 11, "areaM2": 2100 },
+            { "holeNumber": 12, "areaM2": 1900 }
+          ]
+        },
+        {
+          "type": "Semi Rough",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 1100 },
+            { "holeNumber": 2, "areaM2": 800 },
+            { "holeNumber": 3, "areaM2": 500 },
+            { "holeNumber": 4, "areaM2": 1400 },
+            { "holeNumber": 5, "areaM2": 900 },
+            { "holeNumber": 6, "areaM2": 1200 },
+            { "holeNumber": 7, "areaM2": 1000 },
+            { "holeNumber": 8, "areaM2": 700 },
+            { "holeNumber": 9, "areaM2": 850 },
+            { "holeNumber": 10, "areaM2": 1300 },
+            { "holeNumber": 11, "areaM2": 1050 },
+            { "holeNumber": 12, "areaM2": 950 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Lilla Banan",
+      "name": "Lilla Banan",
+      "areas": [
+        {
+          "type": "Tee",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 150 },
+            { "holeNumber": 2, "areaM2": 130 },
+            { "holeNumber": 3, "areaM2": 140 },
+            { "holeNumber": 4, "areaM2": 160 },
+            { "holeNumber": 5, "areaM2": 135 },
+            { "holeNumber": 6, "areaM2": 145 },
+            { "holeNumber": 7, "areaM2": 155 },
+            { "holeNumber": 8, "areaM2": 125 },
+            { "holeNumber": 9, "areaM2": 165 }
+          ]
+        },
+        {
+          "type": "Green",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 300 },
+            { "holeNumber": 2, "areaM2": 280 },
+            { "holeNumber": 3, "areaM2": 320 },
+            { "holeNumber": 4, "areaM2": 350 },
+            { "holeNumber": 5, "areaM2": 290 },
+            { "holeNumber": 6, "areaM2": 310 },
+            { "holeNumber": 7, "areaM2": 330 },
+            { "holeNumber": 8, "areaM2": 270 },
+            { "holeNumber": 9, "areaM2": 340 }
+          ]
+        },
+        {
+          "type": "Fairway",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 1200 },
+            { "holeNumber": 2, "areaM2": 900 },
+            { "holeNumber": 3, "areaM2": 800 },
+            { "holeNumber": 4, "areaM2": 1500 },
+            { "holeNumber": 5, "areaM2": 1000 },
+            { "holeNumber": 6, "areaM2": 1300 },
+            { "holeNumber": 7, "areaM2": 1100 },
+            { "holeNumber": 8, "areaM2": 700 },
+            { "holeNumber": 9, "areaM2": 1400 }
+          ]
+        },
+        {
+          "type": "Semi Rough",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 600 },
+            { "holeNumber": 2, "areaM2": 450 },
+            { "holeNumber": 3, "areaM2": 400 },
+            { "holeNumber": 4, "areaM2": 750 },
+            { "holeNumber": 5, "areaM2": 500 },
+            { "holeNumber": 6, "areaM2": 650 },
+            { "holeNumber": 7, "areaM2": 550 },
+            { "holeNumber": 8, "areaM2": 350 },
+            { "holeNumber": 9, "areaM2": 700 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Övningsområden",
+      "name": "Övningsområden",
+      "areas": [
+        {
+          "type": "Tee",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 300 },
+            { "holeNumber": 2, "areaM2": 250 },
+            { "holeNumber": 3, "areaM2": 200 }
+          ]
+        },
+        {
+          "type": "Green",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 800 },
+            { "holeNumber": 2, "areaM2": 600 },
+            { "holeNumber": 3, "areaM2": 700 }
+          ]
+        },
+        {
+          "type": "Fairway",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 5000 },
+            { "holeNumber": 2, "areaM2": 3000 },
+            { "holeNumber": 3, "areaM2": 4000 }
+          ]
+        },
+        {
+          "type": "Semi Rough",
+          "holes": [
+            { "holeNumber": 1, "areaM2": 1500 },
+            { "holeNumber": 2, "areaM2": 1000 },
+            { "holeNumber": 3, "areaM2": 1200 }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
