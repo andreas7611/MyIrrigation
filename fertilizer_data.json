@@ -11,6 +11,17 @@
       "isLiquid": false,
       "description": "Standard fertilizer for tees"
     },
+     {
+      "id": "Fusion 100",
+      "displayName": "Fusion 18-5-8",
+      "nitrogenPercentage": 18.0,
+      "phosphorusPercentage": 5.0,
+      "potassiumPercentage": 8.0,
+      "ironPercentage": 8,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": "Standard fertilizer for tees"
+    },
     {
       "id": "npk_20_10_10",
       "displayName": "NPK 20-10-10",
