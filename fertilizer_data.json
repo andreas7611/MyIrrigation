@@ -6,6 +6,7 @@
       "nitrogenPercentage": 25.0,
       "phosphorusPercentage": 5.0,
       "potassiumPercentage": 10.0,
+      "ironPercentage": 5,
       "weightPerBag": 25.0,
       "isLiquid": false,
       "description": "Standard fertilizer for tees"
@@ -16,6 +17,7 @@
       "nitrogenPercentage": 20.0,
       "phosphorusPercentage": 10.0,
       "potassiumPercentage": 10.0,
+      "ironPercentage": 5,
       "weightPerBag": 25.0,
       "isLiquid": false,
       "description": "High nitrogen fertilizer for rapid green-up and growth"
@@ -26,6 +28,7 @@
       "nitrogenPercentage": 12.0,
       "phosphorusPercentage": 6.0,
       "potassiumPercentage": 18.0,
+      "ironPercentage": 5,
       "weightPerBag": 25.0,
       "isLiquid": false,
       "description": "High potassium fertilizer for stress tolerance and winter prep"
@@ -36,6 +39,7 @@
       "nitrogenPercentage": 8.0,
       "phosphorusPercentage": 4.0,
       "potassiumPercentage": 6.0,
+      "ironPercentage": 5,
       "weightPerBag": 20.0,
       "isLiquid": true,
       "description": "Slow-release organic fertilizer with soil conditioning benefits"
@@ -46,6 +50,7 @@
       "nitrogenPercentage": 46.0,
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 0.0,
+      "ironPercentage": 5,
       "weightPerBag": 50.0,
       "isLiquid": false,
       "description": "Quick-release nitrogen for rapid growth response"
@@ -56,6 +61,7 @@
       "nitrogenPercentage": 21.0,
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 0.0,
+      "ironPercentage": 5,
       "weightPerBag": 50.0,
       "isLiquid": false,
       "description": "Acidifying nitrogen fertilizer with sulfur"
@@ -66,6 +72,7 @@
       "nitrogenPercentage": 18.0,
       "phosphorusPercentage": 24.0,
       "potassiumPercentage": 12.0,
+      "ironPercentage": 5,
       "weightPerBag": 25.0,
       "isLiquid": false,
       "description": "High phosphorus fertilizer for new seedings and overseeding"
@@ -76,6 +83,7 @@
       "nitrogenPercentage": 10.0,
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 20.0,
+      "ironPercentage": 5,
       "weightPerBag": 25.0,
       "isLiquid": false,
       "description": "Fall fertilizer for winter hardiness and spring green-up"
