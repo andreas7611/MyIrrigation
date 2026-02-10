@@ -7,7 +7,7 @@
       "phosphorusPercentage": 5.0,
       "potassiumPercentage": 10.0,
       "weightPerBag": 25.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "Standard fertilizer for tees"
     },
     {
@@ -17,7 +17,7 @@
       "phosphorusPercentage": 10.0,
       "potassiumPercentage": 10.0,
       "weightPerBag": 25.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "High nitrogen fertilizer for rapid green-up and growth"
     },
     {
@@ -27,7 +27,7 @@
       "phosphorusPercentage": 6.0,
       "potassiumPercentage": 18.0,
       "weightPerBag": 25.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "High potassium fertilizer for stress tolerance and winter prep"
     },
     {
@@ -37,7 +37,7 @@
       "phosphorusPercentage": 4.0,
       "potassiumPercentage": 6.0,
       "weightPerBag": 20.0,
-      "isOrganic": true,
+      "isLiquid": true,
       "description": "Slow-release organic fertilizer with soil conditioning benefits"
     },
     {
@@ -47,7 +47,7 @@
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 0.0,
       "weightPerBag": 50.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "Quick-release nitrogen for rapid growth response"
     },
     {
@@ -57,7 +57,7 @@
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 0.0,
       "weightPerBag": 50.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "Acidifying nitrogen fertilizer with sulfur"
     },
     {
@@ -67,7 +67,7 @@
       "phosphorusPercentage": 24.0,
       "potassiumPercentage": 12.0,
       "weightPerBag": 25.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "High phosphorus fertilizer for new seedings and overseeding"
     },
     {
@@ -77,7 +77,7 @@
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 20.0,
       "weightPerBag": 25.0,
-      "isOrganic": false,
+      "isLiquid": false,
       "description": "Fall fertilizer for winter hardiness and spring green-up"
     }
   ]
