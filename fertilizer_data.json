@@ -23,6 +23,17 @@
       "description": "High nitrogen fertilizer for rapid green-up and growth"
     },
     {
+      "id": "Fusion Liquid",
+      "displayName": "NPK 5-10-5",
+      "nitrogenPercentage": 20.0,
+      "phosphorusPercentage": 10.0,
+      "potassiumPercentage": 10.0,
+      "ironPercentage": 10,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": "Fusion Liquid 10L"
+    },
+    {
       "id": "npk_12_6_18",
       "displayName": "NPK 12-6-18",
       "nitrogenPercentage": 12.0,
