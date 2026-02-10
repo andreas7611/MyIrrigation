@@ -1,0 +1,85 @@
+{
+  "fertilizers": [
+    {
+      "id": "npk_15_15_15",
+      "displayName": "NPK 15-15-15",
+      "nitrogenPercentage": 15.0,
+      "phosphorusPercentage": 15.0,
+      "potassiumPercentage": 15.0,
+      "weightPerBag": 25.0,
+      "isOrganic": false,
+      "description": "Balanced synthetic fertilizer suitable for general turf maintenance"
+    },
+    {
+      "id": "npk_20_10_10",
+      "displayName": "NPK 20-10-10",
+      "nitrogenPercentage": 20.0,
+      "phosphorusPercentage": 10.0,
+      "potassiumPercentage": 10.0,
+      "weightPerBag": 25.0,
+      "isOrganic": false,
+      "description": "High nitrogen fertilizer for rapid green-up and growth"
+    },
+    {
+      "id": "npk_12_6_18",
+      "displayName": "NPK 12-6-18",
+      "nitrogenPercentage": 12.0,
+      "phosphorusPercentage": 6.0,
+      "potassiumPercentage": 18.0,
+      "weightPerBag": 25.0,
+      "isOrganic": false,
+      "description": "High potassium fertilizer for stress tolerance and winter prep"
+    },
+    {
+      "id": "organic_blend",
+      "displayName": "Organic Blend",
+      "nitrogenPercentage": 8.0,
+      "phosphorusPercentage": 4.0,
+      "potassiumPercentage": 6.0,
+      "weightPerBag": 20.0,
+      "isOrganic": true,
+      "description": "Slow-release organic fertilizer with soil conditioning benefits"
+    },
+    {
+      "id": "urea",
+      "displayName": "Urea (46-0-0)",
+      "nitrogenPercentage": 46.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "weightPerBag": 50.0,
+      "isOrganic": false,
+      "description": "Quick-release nitrogen for rapid growth response"
+    },
+    {
+      "id": "sulfate_ammonia",
+      "displayName": "Sulfate of Ammonia (21-0-0)",
+      "nitrogenPercentage": 21.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "weightPerBag": 50.0,
+      "isOrganic": false,
+      "description": "Acidifying nitrogen fertilizer with sulfur"
+    },
+    {
+      "id": "starter_fertilizer",
+      "displayName": "Starter Fertilizer (18-24-12)",
+      "nitrogenPercentage": 18.0,
+      "phosphorusPercentage": 24.0,
+      "potassiumPercentage": 12.0,
+      "weightPerBag": 25.0,
+      "isOrganic": false,
+      "description": "High phosphorus fertilizer for new seedings and overseeding"
+    },
+    {
+      "id": "winterizer",
+      "displayName": "Winterizer (10-0-20)",
+      "nitrogenPercentage": 10.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 20.0,
+      "weightPerBag": 25.0,
+      "isOrganic": false,
+      "description": "Fall fertilizer for winter hardiness and spring green-up"
+    }
+  ]
+}
+
