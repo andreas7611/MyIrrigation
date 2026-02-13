@@ -1,114 +1,225 @@
 {
   "fertilizers": [
     {
-      "id": "npk_25_5_10",
-      "displayName": "NPK 25-5-10",
-      "nitrogenPercentage": 25.0,
-      "phosphorusPercentage": 5.0,
-      "potassiumPercentage": 10.0,
-      "ironPercentage": 5,
+      "id": "Marathon Algae Sport 16-4-8",
+      "displayName": "Marathon Algae Sport 16-4-8",
+      "nitrogenPercentage": 16.0,
+      "phosphorusPercentage": 4.0,
+      "potassiumPercentage": 8.0,
+      "ironPercentage": 0,
       "weightPerBag": 25.0,
       "isLiquid": false,
-      "description": "Standard fertilizer for tees"
+      "description": ""
     },
      {
-      "id": "Fusion 100",
-      "displayName": "Fusion 18-5-8",
-      "nitrogenPercentage": 18.0,
-      "phosphorusPercentage": 5.0,
-      "potassiumPercentage": 8.0,
-      "ironPercentage": 8,
-      "weightPerBag": 10.0,
-      "isLiquid": true,
-      "description": "Standard fertilizer for tees"
-    },
-    {
-      "id": "npk_20_10_10",
-      "displayName": "NPK 20-10-10",
-      "nitrogenPercentage": 20.0,
-      "phosphorusPercentage": 10.0,
-      "potassiumPercentage": 10.0,
-      "ironPercentage": 5,
-      "weightPerBag": 25.0,
-      "isLiquid": false,
-      "description": "High nitrogen fertilizer for rapid green-up and growth"
-    },
-    {
-      "id": "Fusion Liquid",
-      "displayName": "NPK 5-10-5",
-      "nitrogenPercentage": 20.0,
-      "phosphorusPercentage": 10.0,
-      "potassiumPercentage": 10.0,
-      "ironPercentage": 10,
-      "weightPerBag": 10.0,
-      "isLiquid": true,
-      "description": "Fusion Liquid 10L"
-    },
-    {
-      "id": "npk_12_6_18",
-      "displayName": "NPK 12-6-18",
-      "nitrogenPercentage": 12.0,
-      "phosphorusPercentage": 6.0,
-      "potassiumPercentage": 18.0,
-      "ironPercentage": 5,
-      "weightPerBag": 25.0,
-      "isLiquid": false,
-      "description": "High potassium fertilizer for stress tolerance and winter prep"
-    },
-    {
-      "id": "organic_blend",
-      "displayName": "Organic Blend",
-      "nitrogenPercentage": 8.0,
-      "phosphorusPercentage": 4.0,
-      "potassiumPercentage": 6.0,
-      "ironPercentage": 5,
-      "weightPerBag": 20.0,
-      "isLiquid": true,
-      "description": "Slow-release organic fertilizer with soil conditioning benefits"
-    },
-    {
-      "id": "urea",
-      "displayName": "Urea (46-0-0)",
-      "nitrogenPercentage": 46.0,
+      "id": "Melstar Iron Sulphate",
+      "displayName": "Melstar Järnsulfat",
+      "nitrogenPercentage": 0.0,
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 0.0,
-      "ironPercentage": 5,
-      "weightPerBag": 50.0,
+      "ironPercentage": 19.5,
+      "weightPerBag": 25,
       "isLiquid": false,
-      "description": "Quick-release nitrogen for rapid growth response"
+      "description": ""
     },
     {
-      "id": "sulfate_ammonia",
-      "displayName": "Sulfate of Ammonia (21-0-0)",
+      "id": "Yara Kalksalpeter 15.5",
+      "displayName": "Yara Kalksalpeter 15.5,
+      "nitrogenPercentage": 15.5,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 25,
+      "isLiquid": false,
+      "description": ""
+    },
+    {
+      "id": "Yara 21-3-10",
+      "displayName": "Yara 21-3-10",
+      "nitrogenPercentage": 21.0,
+      "phosphorusPercentage": 3.0,
+      "potassiumPercentage": 10.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 25.0,
+      "isLiquid": false,
+      "description": ""
+    },
+    {
+      "id": "Dispatch Vätmedel",
+      "displayName": "Dispatch Vätmedel",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 10,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Greenmaster Liquid High N",
+      "displayName": "Greenmaster Liquid High N",
+      "nitrogenPercentage": 33.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Fusion Liquid Fe",
+      "displayName": "Fusion Liquid Fe",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 6.2,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Turfcomplex",
+      "displayName": "Turfcomplex",
+      "nitrogenPercentage": 1.6,
+      "phosphorusPercentage": 0.2,
+      "potassiumPercentage": 1.2,
+      "ironPercentage": 1.25,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Vector 18-4-4",
+      "displayName": "Vector 18-4-4",
+      "nitrogenPercentage": 18.0,
+      "phosphorusPercentage": 4.0,
+      "potassiumPercentage": 4.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 25.0,
+      "isLiquid": false,
+      "description": ""
+    },
+    {
+      "id": "Vaniperen Ammoniumsulfat",
+      "displayName": "Vaniperen Ammoniumsulfat",
       "nitrogenPercentage": 21.0,
       "phosphorusPercentage": 0.0,
       "potassiumPercentage": 0.0,
-      "ironPercentage": 5,
-      "weightPerBag": 50.0,
-      "isLiquid": false,
-      "description": "Acidifying nitrogen fertilizer with sulfur"
-    },
-    {
-      "id": "starter_fertilizer",
-      "displayName": "Starter Fertilizer (18-24-12)",
-      "nitrogenPercentage": 18.0,
-      "phosphorusPercentage": 24.0,
-      "potassiumPercentage": 12.0,
-      "ironPercentage": 5,
+      "ironPercentage": 0.0,
       "weightPerBag": 25.0,
       "isLiquid": false,
-      "description": "High phosphorus fertilizer for new seedings and overseeding"
+      "description": ""
     },
     {
-      "id": "winterizer",
-      "displayName": "Winterizer (10-0-20)",
-      "nitrogenPercentage": 10.0,
+      "id": "Greenmaster Autumn Mg",
+      "displayName": "Greenmaster Autumn Mg",
+      "nitrogenPercentage": 6.0,
+      "phosphorusPercentage": 2.2,
+      "potassiumPercentage": 9.1,
+      "ironPercentage": 0.5,
+      "weightPerBag": 25.0,
+      "isLiquid": false,
+      "description": ""
+    },
+    {
+      "id": "Greenmaster NK",
+      "displayName": "Greenmaster NK",
+      "nitrogenPercentage": 12.0,
       "phosphorusPercentage": 0.0,
-      "potassiumPercentage": 20.0,
-      "ironPercentage": 5,
+      "potassiumPercentage": 10.0,
+      "ironPercentage": 2.0,
       "weightPerBag": 25.0,
       "isLiquid": false,
-      "description": "Fall fertilizer for winter hardiness and spring green-up"
+      "description": ""
+    },
+    {
+      "id": "Magnum Forty Four",
+      "displayName": "Magnum Forty Four",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Greenmaster Cold Start",
+      "displayName": "Greenmaster Cold Start",
+      "nitrogenPercentage": 11.0,
+      "phosphorusPercentage": 2.2,
+      "potassiumPercentage": 4.2,
+      "ironPercentage": 8.0,
+      "weightPerBag": 25.0,
+      "isLiquid": false,
+      "description": ""
+    },
+    {
+      "id": "Sportsmaster WSF Spring & Summer",
+      "displayName": "Sportsmaster WSF Spring & Summer",
+      "nitrogenPercentage": 28.0,
+      "phosphorusPercentage": 2.2,
+      "potassiumPercentage": 15.8,
+      "ironPercentage": 8.0,
+      "weightPerBag": 15.0,
+      "isLiquid": false,
+      "description": ""
+    },
+    {
+      "id": "Aquatrols Attain",
+      "displayName": "Aquatrols Attain",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Aquatrols Revolution",
+      "displayName": "Aquatrols Revolution",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 10.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Syngenta Ryder",
+      "displayName": "Syngenta Ryder",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 1.0,
+      "isLiquid": true,
+      "description": ""
+    },
+    {
+      "id": "Suno Vigor",
+      "displayName": "Suno Vigor",
+      "nitrogenPercentage": 25.0,
+      "phosphorusPercentage": 1.7,
+      "potassiumPercentage": 8.3,
+      "ironPercentage": 0.0,
+      "weightPerBag": 25.0,
+      "isLiquid": false,
+      "description": ""
+    }
+    ,
+    {
+      "id": "Primo Maxx",
+      "displayName": "Primo Maxx",
+      "nitrogenPercentage": 0.0,
+      "phosphorusPercentage": 0.0,
+      "potassiumPercentage": 0.0,
+      "ironPercentage": 0.0,
+      "weightPerBag": 0.1,
+      "isLiquid": true,
+      "description": ""
     }
   ]
 }
